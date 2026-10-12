@@ -17,7 +17,7 @@ have to bend into shape.
 ![macOS](https://img.shields.io/badge/macOS-111?style=flat)
 ![Windows](https://img.shields.io/badge/Windows-111?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-111?style=flat)
-![Public alpha](https://img.shields.io/badge/status-public%20alpha-555?style=flat)
+![Public beta](https://img.shields.io/badge/status-public%20beta-555?style=flat)
 
 </div>
 
